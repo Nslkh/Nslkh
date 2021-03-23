@@ -7,3 +7,6 @@
 - 😄 Pronouns: He/His
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=Nslkh&show_icons=true&count_private=true"/>
+
+

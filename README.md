@@ -8,4 +8,5 @@ _Here you can see some of my projects_
 <img src="https://github-readme-stats.vercel.app/api?username=Nslkh&show_icons=true&count_private=true"/>
 
 - [cars CRUD APP](https://github.com/Nslkh/cars)
+- [posty](https://github.com/Nslkh/posty)
 
